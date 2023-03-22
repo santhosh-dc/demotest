@@ -1,3 +1,9 @@
 sample line
 
 feature completed
+
+new line
+
+new line 2
+
+feature completed again
